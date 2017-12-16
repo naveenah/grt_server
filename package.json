@@ -4,7 +4,7 @@
   "description": "This serves the Gesture Recognition Services to image streams in ROS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "index": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -21,8 +21,8 @@
   "bugs": {
     "url": "https://github.com/naveenah/grt_server/issues"
   },
-  "homepage": "https://github.com/naveenah/grt_server#readme",
   "dependencies": {
     "express": "^4.16.2"
-  }
+  },
+  "homepage": "https://github.com/naveenah/grt_server#readme"
 }
