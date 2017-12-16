@@ -1,0 +1,28 @@
+{
+  "name": "grt_server",
+  "version": "1.0.0",
+  "description": "This serves the Gesture Recognition Services to image streams in ROS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveenah/grt_server.git"
+  },
+  "keywords": [
+    "GRT",
+    "rosnodejs",
+    "express",
+    "service"
+  ],
+  "author": "Naveen Kumar Hanuman",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/naveenah/grt_server/issues"
+  },
+  "homepage": "https://github.com/naveenah/grt_server#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
